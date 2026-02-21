@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ねぇ、どろどろさん",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T08:45:56.379408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねぇ、どろどろさん",
+      "artist": "YASUHIRO",
+      "has_synced": true,
+      "path": "select/01_ねぇ、どろどろさん_YASUHIRO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねぇ、どろどろさん",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_ねぇ、どろどろさん_ウォルピスカーター.txt"
+    }
+  ]
+}
